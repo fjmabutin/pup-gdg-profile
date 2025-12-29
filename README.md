@@ -1,6 +1,6 @@
 # PUP GDG PROFILE - WEB DEVELOPMENT
 
-# Live Deployment:
+Live Deployment:
    🔗 https://francine-github-io.vercel.app
 
 🛠️ Technologies Used
